@@ -12,6 +12,9 @@ let spotify = new Spotify(keys.spotify);
 
 let inquirer = require("inquirer");
 
+//boolean to detect whether the current is a bulk search or not to limit the prompts
+// let isBulkSearch = false;
+
 // Listen for user input
 // let whatToDo = process.argv[2];
 // let thingToDo = process.argv.slice(3).join('+');
@@ -25,11 +28,11 @@ function actionPrompt() {
       {
         message: "What would you like to do?",
         type: "list",
-        choices: ["Search for a Band", "Search for a Song", "Search for a movie", "Do something random", "Nothing\n"],
+        choices: ["Search for a Band", "Search for a Song", "Search for a movie", "Bulk Search from random.txt", "Quit\n"],
         name: "action"
       },
       {
-        message: "What would you like to searh for?",
+        message: "What would you like to searh for? (leave blank for 'Bulk Search' and 'Quit' options)",
         type: "input",
         name: "searchKey"
       }
@@ -52,11 +55,11 @@ function actionPrompt() {
           getMovie(searchKey);
           break;
 
-        case "Do something random":
+        case "Bulk Search from random.txt":
           justDoIt();
           break;
 
-        case "Nothing":
+        case "Quit":
           console.log("Thanks for using Liri!\n");
           break;
 
@@ -101,7 +104,6 @@ function getBandInfo(searchKey) {
             console.log(moreInfoURL + "\n");
             //prompt user again for next search
             actionPrompt();
-
           });
       }
     });
@@ -116,35 +118,36 @@ function getSong(searchKey) {
     } else {
 
       for (let i = 0; i < 5; i++) {
-        console.log(data.tracks.items[i].artists[0].name); // artist name
-        console.log(data.tracks.items[i].external_urls.spotify); //link of the song
-        console.log(data.tracks.items[i].name); //name of song
-        console.log(data.tracks.items[i].album.name); //name of the album it belongs to   
+        console.log(`Name of Artist: ${data.tracks.items[i].artists[0].name}`); // artist name
+        console.log(`Link to the song: ${data.tracks.items[i].external_urls.spotify}`); //link of the song
+        console.log(`Name of Song: ${data.tracks.items[i].name}`); //name of song
+        console.log(`Album name: ${data.tracks.items[i].album.name}`); //name of the album it belongs to   
         console.log("\n");
       }
+      //prompt user again for next search
+      actionPrompt();
     }
   });
-  //prompt user again for next search
-  actionPrompt();
 }
 
-function getMovie() {
+function getMovie(searchKey) {
   // omdb API
   let movies = require("axios");
-  movies.get("http://www.omdbapi.com/?t=the+notebook&y=&plot=short&apikey=trilogy").then(
+  movies.get(`http://www.omdbapi.com/?t=${searchKey}&y=&plot=short&apikey=trilogy`).then(
     function (response) {
-      console.log(response.data.Title); // * Title of the movie.
-      console.log(response.data.Year); // * Year the movie came out.
-      console.log(response.data.Ratings[0].Value); // * IMDB Rating of the movie.
-      console.log(response.data.Ratings[1].Value); // * Rotten Tomatoes Rating of the movie.
-      console.log(response.data.Country); // * Country where the movie was produced.
-      console.log(response.data.Language); // * Language of the movie.
-      console.log(response.data.Plot); // * Plot of the movie.
-      console.log(response.data.Actors);  // * Actors in the movie.
+      console.log(`Tittle of the Movie: ${response.data.Title}`); // * Title of the movie.
+      console.log(`Year of the movie: ${response.data.Year}`); // * Year the movie came out.
+      console.log(`IMDB Rating of the movie: ${response.data.Ratings[0].Value}`); // * IMDB Rating of the movie.
+      console.log(`Rotten Tomatoes Rating of the movie: ${response.data.Ratings[1].Value}`); // * Rotten Tomatoes Rating of the movie.
+      console.log(`Country where the movie was produced: ${response.data.Country}`); // * Country where the movie was produced.
+      console.log(`Language of the movie: ${response.data.Language}`); // * Language of the movie.
+      console.log(`Plot of the movie: ${response.data.Plot}`); // * Plot of the movie.
+      console.log(`Actors in the movie: ${response.data.Actors}`);  // * Actors in the movie.
+      console.log("\n");
+      //prompt user again for next search
+      actionPrompt();
     }
   );
-  //prompt user again for next search
-  actionPrompt()
 }
 
 function justDoIt() {
@@ -152,4 +155,38 @@ function justDoIt() {
   // * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
   // * Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
+  // fs is a core Node package for reading and writing files
+  let fs = require("fs");
+  isBulkSearch = true;
+
+  // This block of code will read from the "movies.txt" file.
+  // It's important to include the "utf8" parameter or the code will provide stream data (garbage)
+  // The code will store the contents of the reading inside the variable "data"
+  fs.readFile("random.txt", "utf8", function(error, data) {
+
+    // If the code experiences any errors it will log the error to the console.
+    if (error) {
+      return console.log(error);
+    }
+    
+    // We will then print the contents of data
+    // console.log(data);
+
+    // Then split it by commas (to make it more readable)
+    var dataArr = data.split("\n");
+
+    for (let i=0;i<dataArr.length;i++){
+      //let search = dataArr[i];
+      //console.log(search);
+      console.log("Executing the following commands from random.txt: ");
+      console.log(dataArr[i]);
+      console.log("\n");
+      eval(dataArr[i]);
+    }
+    
+    // if (isBulkSearch === true){
+    //   actionPrompt();
+    //   isBulkSearch = false;
+    // }  
+  });
 }
