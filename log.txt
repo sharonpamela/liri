@@ -1,863 +1,125 @@
-action chosen: Search for a Song 
-search key entered:  
-Spotify API query STR: https://rest.bandsintown.com/artists/The+Sign?app_id=codingbootcamp
-Name of Artist: Harry Styles
-Link to the song: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
-Name of Song: Sign of the Times
-Album name: Harry Styles
 
+03-21-2019 23:43:34 action chosen: 03-21-2019 23:43:34Search for a Band 
 
-Name of Artist: Lil Wayne
-Link to the song: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
-Name of Song: Scared of the Dark (feat. XXXTENTACION)
-Album name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+03-21-2019 23:43:34 search key entered:  
+03-21-2019 23:43:34 bands in town API query STR: 03-21-2019 23:43:34https://rest.bandsintown.com/artists/gaga?app_id=codingbootcamp
+03-21-2019 23:43:35thumb_url: https://s3.amazonaws.com/bit-photos/thumb/7864344.jpeg
+03-21-2019 23:43:35mbid: 79a56dcf-fd44-49e3-8d1f-cff86c81b598
+03-21-2019 23:43:35facebook_page_url: http://www.facebook.com/151806754842815
+03-21-2019 23:43:35image_url: https://s3.amazonaws.com/bit-photos/large/7864344.jpeg
+03-21-2019 23:43:35name: Gaga
+03-21-2019 23:43:35id: 162880
+03-21-2019 23:43:35tracker_count: 5468
+03-21-2019 23:43:35upcoming_event_count: 3
+03-21-2019 23:43:35url: https://www.bandsintown.com/a/162880?came_from=267&app_id=codingbootcamp
+03-21-2019 23:43:350: [object Object]
+03-21-2019 23:43:351: [object Object]
+03-21-2019 23:43:352: [object Object]
 
+03-21-2019 23:43:56 action chosen: 03-21-2019 23:43:56Search for a Band 
 
-Name of Artist: Jeremih
-Link to the song: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
-Name of Song: Impatient
-Album name: Late Nights: The Album
+03-21-2019 23:43:56 search key entered: arianna+grande 
+03-21-2019 23:43:56 bands in town API query STR: 03-21-2019 23:43:56https://rest.bandsintown.com/artists/arianna+grande?app_id=codingbootcamp
+03-21-2019 23:43:56thumb_url: https://s3.amazonaws.com/bit-photos/thumb/8669790.jpeg
+03-21-2019 23:43:56mbid: 
+03-21-2019 23:43:56facebook_page_url: http://www.facebook.com/12384211026
+03-21-2019 23:43:56image_url: https://s3.amazonaws.com/bit-photos/large/8669790.jpeg
+03-21-2019 23:43:56name: Ariana Grande
+03-21-2019 23:43:56id: 1120421
+03-21-2019 23:43:56tracker_count: 2992900
+03-21-2019 23:43:56upcoming_event_count: 79
+03-21-2019 23:43:56url: https://www.bandsintown.com/a/1120421?came_from=267&app_id=codingbootcamp
+03-21-2019 23:43:570: [object Object]
+03-21-2019 23:43:571: [object Object]
+03-21-2019 23:43:572: [object Object]
+03-21-2019 23:43:573: [object Object]
+03-21-2019 23:43:574: [object Object]
+03-21-2019 23:43:575: [object Object]
+03-21-2019 23:43:576: [object Object]
+03-21-2019 23:43:577: [object Object]
+03-21-2019 23:43:578: [object Object]
+03-21-2019 23:43:579: [object Object]
+03-21-2019 23:43:5710: [object Object]
+03-21-2019 23:43:5711: [object Object]
+03-21-2019 23:43:5712: [object Object]
+03-21-2019 23:43:5713: [object Object]
+03-21-2019 23:43:5714: [object Object]
+03-21-2019 23:43:5715: [object Object]
+03-21-2019 23:43:5716: [object Object]
+03-21-2019 23:43:5717: [object Object]
+03-21-2019 23:43:5718: [object Object]
+03-21-2019 23:43:5719: [object Object]
+03-21-2019 23:43:5720: [object Object]
+03-21-2019 23:43:5721: [object Object]
+03-21-2019 23:43:5722: [object Object]
+03-21-2019 23:43:5723: [object Object]
+03-21-2019 23:43:5724: [object Object]
+03-21-2019 23:43:5725: [object Object]
+03-21-2019 23:43:5726: [object Object]
+03-21-2019 23:43:5727: [object Object]
+03-21-2019 23:43:5728: [object Object]
+03-21-2019 23:43:5729: [object Object]
+03-21-2019 23:43:5730: [object Object]
+03-21-2019 23:43:5731: [object Object]
+03-21-2019 23:43:5732: [object Object]
+03-21-2019 23:43:5733: [object Object]
+03-21-2019 23:43:5734: [object Object]
+03-21-2019 23:43:5735: [object Object]
+03-21-2019 23:43:5736: [object Object]
+03-21-2019 23:43:5737: [object Object]
+03-21-2019 23:43:5738: [object Object]
+03-21-2019 23:43:5739: [object Object]
+03-21-2019 23:43:5740: [object Object]
+03-21-2019 23:43:5741: [object Object]
+03-21-2019 23:43:5742: [object Object]
+03-21-2019 23:43:5743: [object Object]
+03-21-2019 23:43:5744: [object Object]
+03-21-2019 23:43:5745: [object Object]
+03-21-2019 23:43:5746: [object Object]
+03-21-2019 23:43:5747: [object Object]
+03-21-2019 23:43:5748: [object Object]
+03-21-2019 23:43:5749: [object Object]
+03-21-2019 23:43:5750: [object Object]
+03-21-2019 23:43:5751: [object Object]
+03-21-2019 23:43:5752: [object Object]
+03-21-2019 23:43:5753: [object Object]
+03-21-2019 23:43:5754: [object Object]
+03-21-2019 23:43:5755: [object Object]
+03-21-2019 23:43:5756: [object Object]
+03-21-2019 23:43:5757: [object Object]
+03-21-2019 23:43:5758: [object Object]
+03-21-2019 23:43:5759: [object Object]
+03-21-2019 23:43:5760: [object Object]
+03-21-2019 23:43:5761: [object Object]
+03-21-2019 23:43:5762: [object Object]
+03-21-2019 23:43:5763: [object Object]
+03-21-2019 23:43:5764: [object Object]
+03-21-2019 23:43:5765: [object Object]
+03-21-2019 23:43:5766: [object Object]
+03-21-2019 23:43:5767: [object Object]
+03-21-2019 23:43:5768: [object Object]
+03-21-2019 23:43:5769: [object Object]
+03-21-2019 23:43:5770: [object Object]
+03-21-2019 23:43:5771: [object Object]
+03-21-2019 23:43:5772: [object Object]
+03-21-2019 23:43:5773: [object Object]
+03-21-2019 23:43:5774: [object Object]
+03-21-2019 23:43:5775: [object Object]
+03-21-2019 23:43:5776: [object Object]
+03-21-2019 23:43:5777: [object Object]
+03-21-2019 23:43:5778: [object Object]
 
-
-Name of Artist: Ty Dolla $ign
-Link to the song: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
-Name of Song: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
-Album name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
-
-
-Name of Artist: Jeremih
-Link to the song: https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
-Name of Song: The Light
-Album name: The Light
-
-
-action chosen: Search for a Song 
-search key entered:  
-Spotify API query STR: https://rest.bandsintown.com/artists/The+Sign?app_id=codingbootcamp
-Name of Artist: Harry Styles
-Link to the song: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
-Name of Song: Sign of the Times
-Album name: Harry Styles
-
-
-Name of Artist: Lil Wayne
-Link to the song: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
-Name of Song: Scared of the Dark (feat. XXXTENTACION)
-Album name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-
-
-Name of Artist: Jeremih
-Link to the song: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
-Name of Song: Impatient
-Album name: Late Nights: The Album
-
-
-Name of Artist: Ty Dolla $ign
-Link to the song: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
-Name of Song: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
-Album name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
-
-
-Name of Artist: Jeremih
-Link to the song: https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
-Name of Song: The Light
-Album name: The Light
-
-
-action chosen: Search for a Band 
-search key entered: shakira 
-bands in town API query STR: https://rest.bandsintown.com/artists/shakira?app_id=codingbootcamp
-id: 90
-name: Shakira
-url: https://www.bandsintown.com/a/90?came_from=267&app_id=codingbootcamp
-image_url: https://s3.amazonaws.com/bit-photos/large/8518614.jpeg
-thumb_url: https://s3.amazonaws.com/bit-photos/thumb/8518614.jpeg
-facebook_page_url: http://www.facebook.com/5027904559
-mbid: 726cb350-d775-4e07-b006-898555f24b0d
-tracker_count: 2957025
-upcoming_event_count: 0
-action chosen: Search for a Band 
-search key entered: beyonce 
-bands in town API query STR: https://rest.bandsintown.com/artists/beyonce?app_id=codingbootcamp
-mbid: 183105b5-3e68-4748-9086-2c1c11bf7a3d
-thumb_url: https://s3.amazonaws.com/bit-photos/thumb/8652941.jpeg
-facebook_page_url: 
-image_url: https://s3.amazonaws.com/bit-photos/large/8652941.jpeg
-name: Beyonce
-id: 25895
-tracker_count: 4422883
-upcoming_event_count: 0
-url: https://www.bandsintown.com/a/25895?came_from=267&app_id=codingbootcamp
-action chosen: Search for a Band 
-search key entered: arianna+grande 
-bands in town API query STR: https://rest.bandsintown.com/artists/arianna+grande?app_id=codingbootcamp
-thumb_url: https://s3.amazonaws.com/bit-photos/thumb/8669790.jpeg
-mbid: 
-facebook_page_url: http://www.facebook.com/12384211026
-image_url: https://s3.amazonaws.com/bit-photos/large/8669790.jpeg
-name: Ariana Grande
-id: 1120421
-tracker_count: 2992900
-upcoming_event_count: 79
-url: https://www.bandsintown.com/a/1120421?came_from=267&app_id=codingbootcamp
-0: [object Object]
-1: [object Object]
-3: [object Object]
-2: [object Object]
-5: [object Object]
-4: [object Object]
-6: [object Object]
-7: [object Object]
-8: [object Object]
-9: [object Object]
-10: [object Object]
-11: [object Object]
-12: [object Object]
-13: [object Object]
-14: [object Object]
-16: [object Object]
-15: [object Object]
-18: [object Object]
-19: [object Object]
-20: [object Object]
-17: [object Object]
-21: [object Object]
-22: [object Object]
-23: [object Object]
-24: [object Object]
-25: [object Object]
-26: [object Object]
-28: [object Object]
-27: [object Object]
-29: [object Object]
-30: [object Object]
-31: [object Object]
-32: [object Object]
-33: [object Object]
-34: [object Object]
-35: [object Object]
-36: [object Object]
-37: [object Object]
-38: [object Object]
-39: [object Object]
-40: [object Object]
-41: [object Object]
-42: [object Object]
-43: [object Object]
-44: [object Object]
-45: [object Object]
-46: [object Object]
-47: [object Object]
-48: [object Object]
-49: [object Object]
-50: [object Object]
-51: [object Object]
-52: [object Object]
-53: [object Object]
-54: [object Object]
-55: [object Object]
-56: [object Object]
-57: [object Object]
-58: [object Object]
-59: [object Object]
-60: [object Object]
-61: [object Object]
-62: [object Object]
-63: [object Object]
-64: [object Object]
-65: [object Object]
-66: [object Object]
-67: [object Object]
-68: [object Object]
-69: [object Object]
-70: [object Object]
-71: [object Object]
-72: [object Object]
-73: [object Object]
-74: [object Object]
-75: [object Object]
-76: [object Object]
-77: [object Object]
-78: [object Object]
-action chosen: Search for a Band 
-search key entered: beyonce 
-bands in town API query STR: https://rest.bandsintown.com/artists/beyonce?app_id=codingbootcamp
-thumb_url: https://s3.amazonaws.com/bit-photos/thumb/8652941.jpeg
-mbid: 183105b5-3e68-4748-9086-2c1c11bf7a3d
-facebook_page_url: 
-image_url: https://s3.amazonaws.com/bit-photos/large/8652941.jpeg
-name: Beyonce
-id: 25895
-tracker_count: 4422883
-upcoming_event_count: 0
-url: https://www.bandsintown.com/a/25895?came_from=267&app_id=codingbootcamp
-action chosen: Search for a movie 
-search key entered: selena 
-Movie API query STR: http://www.omdbapi.com/?t=selena&y=&plot=short&apikey=trilogy
-[object Object]
-action chosen: Quit
- 
-search key entered:  
-action chosen: Search for a movie 
-search key entered: selena 
-1553212830175Movie API query STR: http://www.omdbapi.com/?t=selena&y=&plot=short&apikey=trilogy
-Tittle of the Movie: Selena
-Year of the movie: 1997
-IMDB Rating of the movie: 6.7/10
-Rotten Tomatoes Rating of the movie: 67%
-Country where the movie was produced: USA
-Language of the movie: English, Spanish
-Plot of the movie: The true story of Selena Quintanilla-Perez, a Texas-born Tejano singer who rose from cult status to performing at the Astrodome, as well as having chart topping albums on the Latin music charts.
-Actors in the movie: Jennifer Lopez, Jackie Guerra, Constance Marie, Alex Meneses
-Quit
- 
-action chosen: search key entered:  
-action chosen: Search for a movie 
-search key entered: rocky 
-function setOffsetToUTC (keepLocalTime) {
-        return this.utcOffset(0, keepLocalTime);
-    } Movie API query STR: http://www.omdbapi.com/?t=rocky&y=&plot=short&apikey=trilogy
-Tittle of the Movie: Rocky
-Year of the movie: 1976
-IMDB Rating of the movie: 8.1/10
-Rotten Tomatoes Rating of the movie: 93%
-Country where the movie was produced: USA
-Language of the movie: English
-Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.
-Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers
-action chosen: Quit
- 
-search key entered:  
-action chosen: Search for a movie 
-rocky 
-search key entered: 1553213033035 Movie API query STR: http://www.omdbapi.com/?t=rocky&y=&plot=short&apikey=trilogy
-Tittle of the Movie: Rocky
-Year of the movie: 1976
-IMDB Rating of the movie: 8.1/10
-Rotten Tomatoes Rating of the movie: 93%
-Country where the movie was produced: USA
-Language of the movie: English
-Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.
-Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers
-Quit
- 
-action chosen: search key entered:  
-action chosen: Search for a movie 
-search key entered:  
-action chosen: Search for a movie 
-search key entered: selena 
-action chosen: Search for a movie 
-search key entered: selena 
-03-21-2019 17:17:04 Movie API query STR: http://www.omdbapi.com/?t=selena&y=&plot=short&apikey=trilogy
-Tittle of the Movie: Selena
-Year of the movie: 1997
-IMDB Rating of the movie: 6.7/10
-Rotten Tomatoes Rating of the movie: 67%
-Country where the movie was produced: USA
-Language of the movie: English, Spanish
-Plot of the movie: The true story of Selena Quintanilla-Perez, a Texas-born Tejano singer who rose from cult status to performing at the Astrodome, as well as having chart topping albums on the Latin music charts.
-Actors in the movie: Jennifer Lopez, Jackie Guerra, Constance Marie, Alex Meneses
-action chosen: Quit
- 
-search key entered:  
-action chosen: Search for a movie 
-search key entered: mummy 
-03-21-2019 17:19:20 Movie API query STR: http://www.omdbapi.com/?t=mummy&y=&plot=short&apikey=trilogy
-Tittle of the Movie: The Mummy
-Year of the movie: 1999
-IMDB Rating of the movie: 7.0/10
-Rotten Tomatoes Rating of the movie: 58%
-Country where the movie was produced: USA
-Language of the movie: English, Egyptian (Ancient), Arabic, Chinese, Hebrew, Hungarian
-Plot of the movie: At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreck havoc as he searches for the reincarnation of his long-lost love.
-Actors in the movie: Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo
-action chosen: Search for a Band 
-search key entered:  
-bands in town API query STR: https://rest.bandsintown.com/artists/?app_id=codingbootcamp
-action chosen: Search for a Band 
-search key entered: arianna+grande 
-03-21-2019 17:21:32bands in town API query STR: 03-21-2019 17:21:32https://rest.bandsintown.com/artists/arianna+grande?app_id=codingbootcamp
-03-21-2019 17:21:32thumb_url: https://s3.amazonaws.com/bit-photos/thumb/8669790.jpeg
-03-21-2019 17:21:32mbid: 
-03-21-2019 17:21:32facebook_page_url: http://www.facebook.com/12384211026
-03-21-2019 17:21:32image_url: https://s3.amazonaws.com/bit-photos/large/8669790.jpeg
-03-21-2019 17:21:32name: Ariana Grande
-03-21-2019 17:21:32id: 1120421
-03-21-2019 17:21:32tracker_count: 2992900
-03-21-2019 17:21:32upcoming_event_count: 79
-03-21-2019 17:21:32url: https://www.bandsintown.com/a/1120421?came_from=267&app_id=codingbootcamp
-2: [object Object]
-0: [object Object]
-1: [object Object]
-3: [object Object]
-5: [object Object]
-4: [object Object]
-6: [object Object]
-7: [object Object]
-8: [object Object]
-9: [object Object]
-10: [object Object]
-11: [object Object]
-12: [object Object]
-13: [object Object]
-14: [object Object]
-15: [object Object]
-16: [object Object]
-17: [object Object]
-18: [object Object]
-19: [object Object]
-20: [object Object]
-21: [object Object]
-22: [object Object]
-23: [object Object]
-24: [object Object]
-25: [object Object]
-26: [object Object]
-27: [object Object]
-28: [object Object]
-29: [object Object]
-30: [object Object]
-31: [object Object]
-32: [object Object]
-33: [object Object]
-34: [object Object]
-35: [object Object]
-36: [object Object]
-37: [object Object]
-38: [object Object]
-39: [object Object]
-40: [object Object]
-41: [object Object]
-42: [object Object]
-43: [object Object]
-44: [object Object]
-45: [object Object]
-46: [object Object]
-47: [object Object]
-48: [object Object]
-49: [object Object]
-50: [object Object]
-51: [object Object]
-52: [object Object]
-53: [object Object]
-54: [object Object]
-55: [object Object]
-56: [object Object]
-57: [object Object]
-58: [object Object]
-59: [object Object]
-60: [object Object]
-61: [object Object]
-62: [object Object]
-63: [object Object]
-64: [object Object]
-65: [object Object]
-66: [object Object]
-67: [object Object]
-68: [object Object]
-69: [object Object]
-70: [object Object]
-71: [object Object]
-72: [object Object]
-73: [object Object]
-74: [object Object]
-75: [object Object]
-76: [object Object]
-77: [object Object]
-78: [object Object]
-action chosen: Search for a Song 
-search key entered: girls+like you 
-03-21-2019 17:21:41Spotify API query STR: 03-21-2019 17:21:41https://rest.bandsintown.com/artists/girls like you?app_id=codingbootcamp
-Name of Artist: Maroon 5
-Link to the song: https://open.spotify.com/track/6FRLCMO5TUHTexlWo8ym1W
-Name of Song: Girls Like You (feat. Cardi B)
-Album name: Girls Like You (feat. Cardi B)
-
-
-Name of Artist: Maroon 5
-Link to the song: https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk
-Name of Song: Girls Like You (feat. Cardi B)
-Album name: Red Pill Blues (Deluxe)
-
-
-Name of Artist: Maroon 5
-Link to the song: https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz
-Name of Song: Girls Like You
-Album name: Red Pill Blues (Deluxe)
-
-
-Name of Artist: Kip Moore
-Link to the song: https://open.spotify.com/track/73WWkaWkIRSP3MYGZ14aY4
-Name of Song: More Girls Like You
-Album name: SLOWHEART
-
-
-Name of Artist: Kesh
-Link to the song: https://open.spotify.com/track/4eoCm1tAMt8Mu0f2UW9TdW
-Name of Song: Girls Like You
-Album name: Girls Like You
-
-
-action chosen: Search for a movie 
-search key entered: rocky 
-03-21-2019 17:21:45 Movie API query STR: 03-21-2019 17:21:45http://www.omdbapi.com/?t=rocky&y=&plot=short&apikey=trilogy
-03-21-2019 17:21:45Tittle of the Movie: Rocky
-03-21-2019 17:21:45Year of the movie: 1976
-03-21-2019 17:21:45IMDB Rating of the movie: 8.1/10
-03-21-2019 17:21:45Rotten Tomatoes Rating of the movie: 93%
-03-21-2019 17:21:45Country where the movie was produced: USA
-03-21-2019 17:21:45Language of the movie: English
-03-21-2019 17:21:45Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.
-03-21-2019 17:21:45Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers
-action chosen: search key entered: Search for a Band 
- 
-03-21-2019 18:29:45bands in town API query STR: 03-21-2019 18:29:45https://rest.bandsintown.com/artists/?app_id=codingbootcamp
-03-21-2019 18:29:52 action chosen: 03-21-2019 18:29:52Bulk Search from random.txt 
-03-21-2019 18:29:52 search key entered:  
-03-21-2019 18:29:52Running searches from random.txt 03-21-2019 18:40:06 action chosen: 03-21-2019 18:40:06Bulk Search from random.txt 
-03-21-2019 18:40:06 search key entered:  
-03-21-2019 18:40:06 Running searches from random.txt 03-21-2019 18:43:17 action chosen: 03-21-2019 18:43:17Bulk Search from random.txt 
-03-21-2019 18:43:17 search key entered:  
-03-21-2019 18:43:17 Running searches from random.txt 03-21-2019 19:35:04 action chosen: 03-21-2019 19:35:04Bulk Search from random.txt 
-03-21-2019 19:35:04 search key entered:  
-03-21-2019 19:35:04 Running searches from random.txt 03-21-2019 19:36:22 action chosen: 03-21-2019 19:36:22Bulk Search from random.txt 
-03-21-2019 19:36:22 search key entered:  
-03-21-2019 19:36:22 Running searches from random.txt 03-21-2019 19:37:13 action chosen: 03-21-2019 19:37:13Bulk Search from random.txt 
-03-21-2019 19:37:13 search key entered:  
-03-21-2019 19:37:13 Running searches from random.txt 03-21-2019 19:38:23 action chosen: 03-21-2019 19:38:23Bulk Search from random.txt 
-03-21-2019 19:38:23 search key entered:  
-03-21-2019 19:38:23 Running searches from random.txt 03-21-2019 19:58:02 action chosen: 03-21-2019 19:58:02Bulk Search from random.txt 
-03-21-2019 19:58:02 search key entered:  
-03-21-2019 19:58:02 Running searches from random.txt 03-21-2019 19:58:29 action chosen: 03-21-2019 19:58:29Bulk Search from random.txt 
-03-21-2019 19:58:29 search key entered:  
-03-21-2019 19:58:29 Running searches from random.txt 03-21-2019 19:58:53 action chosen: 03-21-2019 19:58:53Bulk Search from random.txt 
-03-21-2019 19:58:53 search key entered:  
-03-21-2019 19:58:53 Running searches from random.txt 03-21-2019 19:59:28 action chosen: 03-21-2019 19:59:28Bulk Search from random.txt 
-03-21-2019 19:59:28 search key entered:  
-03-21-2019 19:59:28 Running searches from random.txt 03-21-2019 20:02:08 action chosen: 03-21-2019 20:02:08Bulk Search from random.txt 
-03-21-2019 20:02:08 search key entered:  
-03-21-2019 20:02:08 Running searches from random.txt 03-21-2019 20:25:39 action chosen: 03-21-2019 20:25:39Search for a Band 
-03-21-2019 20:25:39 search key entered:  
-03-21-2019 20:25:39bands in town API query STR: 03-21-2019 20:25:39https://rest.bandsintown.com/artists/?app_id=codingbootcamp
-03-21-2019 20:25:51 action chosen: 03-21-2019 20:25:51Search for a movie 
-03-21-2019 20:25:51 search key entered:  
-03-21-2019 20:25:51 Movie API query STR: 03-21-2019 20:25:51http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
-03-21-2019 20:25:59 action chosen: 03-21-2019 20:25:59Search for a Song 
-03-21-2019 20:25:59 search key entered:  
-03-21-2019 20:25:59Spotify API query STR: 03-21-2019 20:25:59https://rest.bandsintown.com/artists/The+Sign?app_id=codingbootcamp
-03-21-2019 20:25:59Name of Artist: Harry Styles
-03-21-2019 20:25:59Link to the song: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
-03-21-2019 20:25:59Name of Song: Sign of the Times
-03-21-2019 20:25:59Album name: Harry Styles
-03-21-2019 20:25:59
-
-03-21-2019 20:25:59Name of Artist: Lil Wayne
-03-21-2019 20:25:59Link to the song: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
-03-21-2019 20:25:59Name of Song: Scared of the Dark (feat. XXXTENTACION)
-03-21-2019 20:25:59Album name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-03-21-2019 20:25:59
-
-03-21-2019 20:25:59Name of Artist: Jeremih
-03-21-2019 20:25:59Link to the song: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
-03-21-2019 20:25:59Name of Song: Impatient
-03-21-2019 20:25:59Album name: Late Nights: The Album
-03-21-2019 20:25:59
-
-03-21-2019 20:25:59Name of Artist: Ty Dolla $ign
-03-21-2019 20:25:59Link to the song: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
-03-21-2019 20:25:59Name of Song: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
-03-21-2019 20:25:59Album name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
-03-21-2019 20:25:59
-
-03-21-2019 20:25:59Name of Artist: Jeremih
-03-21-2019 20:25:59Link to the song: https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
-03-21-2019 20:25:59Name of Song: The Light
-03-21-2019 20:25:59Album name: The Light
-03-21-2019 20:25:59
-
-03-21-2019 20:28:22 action chosen: 03-21-2019 20:28:22Quit
- 
-03-21-2019 20:28:22 search key entered:  
-
-03-21-2019 20:31:31 action chosen: 03-21-2019 20:31:31Search for a movie 
-
-03-21-2019 20:31:31 search key entered:  
-03-21-2019 20:31:31 Movie API query STR: 03-21-2019 20:31:31http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
-
-03-21-2019 20:34:05 action chosen: 03-21-2019 20:34:05Search for a movie 
+03-21-2019 23:46:54 action chosen: 03-21-2019 23:46:54Quit
  
 
-03-21-2019 20:34:05 search key entered: 
-03-21-2019 20:34:05 Movie API query STR: 03-21-2019 20:34:05http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
+03-21-2019 23:46:54 search key entered:  
 
-03-21-2019 20:34:39 action chosen: 03-21-2019 20:34:39Search for a movie 
-
-03-21-2019 20:34:39 search key entered:  
-
-03-21-2019 20:34:39 Movie API query STR: 03-21-2019 20:34:39http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
-
-03-21-2019 20:34:55 action chosen: 03-21-2019 20:34:55Search for a movie 
-
-03-21-2019 20:34:55 search key entered:  
-
-03-21-2019 20:34:55 Movie API query STR: 03-21-2019 20:34:55http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
-
-03-21-2019 20:35:20 action chosen: 03-21-2019 20:35:20Bulk Search from random.txt 
-
-03-21-2019 20:35:20 search key entered:  
-03-21-2019 20:35:20 Running searches from random.txt 
-03-21-2019 20:35:26 action chosen: 03-21-2019 20:35:26Search for a movie 
-
-03-21-2019 20:35:26 search key entered:  
-
-03-21-2019 20:35:26 Movie API query STR: 03-21-2019 20:35:26http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
-
-03-21-2019 20:36:45 action chosen: 03-21-2019 20:36:45Search for a movie 
-
-03-21-2019 20:36:45 search key entered:  
-
-03-21-2019 20:36:45 Movie API query STR: 03-21-2019 20:36:45http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
-
-03-21-2019 20:39:13 action chosen: 03-21-2019 20:39:13Search for a movie 
-
-03-21-2019 20:39:13 search key entered:  
-
-03-21-2019 20:39:13 Movie API query STR: 03-21-2019 20:39:13http://www.omdbapi.com/?t=beautiful+mind&y=&plot=short&apikey=trilogy
-
-03-21-2019 20:39:53 action chosen: 03-21-2019 20:39:53Search for a movie 
+03-21-2019 23:47:01 action chosen: Quit
  
 
-03-21-2019 20:39:53 search key entered: 
-03-21-2019 20:39:53 Movie API query STR: 03-21-2019 20:39:53http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
+03-21-2019 23:47:01 search key entered:  
 
-03-21-2019 20:41:35 action chosen: 03-21-2019 20:41:35Search for a movie 
-
-03-21-2019 20:41:35 search key entered:  
-
-03-21-2019 20:41:35 Movie API query STR: 03-21-2019 20:41:35http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
-
-03-21-2019 20:41:53 action chosen: 03-21-2019 20:41:53Search for a movie 
-
-03-21-2019 20:41:53 search key entered:  
-
-03-21-2019 20:43:30 action chosen: 03-21-2019 20:43:30Search for a movie 
-
-03-21-2019 20:43:30 search key entered:  
-
-03-21-2019 20:43:30 Movie API query STR: 03-21-2019 20:43:30http://www.omdbapi.com/?t=selena&y=&plot=short&apikey=trilogy
-03-21-2019 20:43:30Tittle of the Movie: Selena
-03-21-2019 20:43:30Year of the movie: 1997
-03-21-2019 20:43:30IMDB Rating of the movie: 6.7/10
-03-21-2019 20:43:30Rotten Tomatoes Rating of the movie: 67%
-03-21-2019 20:43:30Country where the movie was produced: USA
-03-21-2019 20:43:30Language of the movie: English, Spanish
-03-21-2019 20:43:30Plot of the movie: The true story of Selena Quintanilla-Perez, a Texas-born Tejano singer who rose from cult status to performing at the Astrodome, as well as having chart topping albums on the Latin music charts.
-03-21-2019 20:43:30Actors in the movie: Jennifer Lopez, Jackie Guerra, Constance Marie, Alex Meneses
-
-03-21-2019 20:56:02 action chosen: 03-21-2019 20:56:02Bulk Search from random.txt 
-
-03-21-2019 20:56:02 search key entered:  
-03-21-2019 20:56:02 Running searches from random.txt 
-03-21-2019 20:57:12 action chosen: 03-21-2019 20:57:12Bulk Search from random.txt 
-
-03-21-2019 20:57:12 search key entered:  
-03-21-2019 20:57:12 Running searches from random.txt 
-03-21-2019 20:57:28 action chosen: 03-21-2019 20:57:28Bulk Search from random.txt 
-
-03-21-2019 20:57:28 search key entered:  
-03-21-2019 20:57:28 Running searches from random.txt 
-03-21-2019 20:58:07 action chosen: 03-21-2019 20:58:07Bulk Search from random.txt 
-
-03-21-2019 20:58:07 search key entered:  
-03-21-2019 20:58:07 Running searches from random.txt 
-03-21-2019 20:58:57 action chosen: 03-21-2019 20:58:57Bulk Search from random.txt 
-
-03-21-2019 20:58:57 search key entered:  
-03-21-2019 20:58:57 Running searches from random.txt 
-03-21-2019 20:59:29 action chosen: 03-21-2019 20:59:29Bulk Search from random.txt 
-
-03-21-2019 20:59:29 search key entered:  
-03-21-2019 20:59:29 Running searches from random.txt 
-03-21-2019 21:01:39 action chosen: 03-21-2019 21:01:40Bulk Search from random.txt 
-
-03-21-2019 21:01:40 search key entered:  
-03-21-2019 21:01:40 Running searches from random.txt 
-03-21-2019 21:02:24 action chosen: 03-21-2019 21:02:24Bulk Search from random.txt 
-
-03-21-2019 21:02:24 search key entered:  
-03-21-2019 21:02:24 Running searches from random.txt 
-03-21-2019 21:04:01 action chosen: 03-21-2019 21:04:01Bulk Search from random.txt 
-
-03-21-2019 21:04:01 search key entered:  
-03-21-2019 21:04:01 Running searches from random.txt 
-03-21-2019 21:04:29 action chosen: 03-21-2019 21:04:29Bulk Search from random.txt 
-
-03-21-2019 21:04:29 search key entered:  
-03-21-2019 21:04:29 Running searches from random.txt 
-03-21-2019 21:04:49 action chosen: 03-21-2019 21:04:49Bulk Search from random.txt 
-
-03-21-2019 21:04:49 search key entered:  
-03-21-2019 21:04:49 Running searches from random.txt 
-03-21-2019 21:05:31 action chosen: 03-21-2019 21:05:31Bulk Search from random.txt 
-
-03-21-2019 21:05:31 search key entered:  
-03-21-2019 21:05:31 Running searches from random.txt 
-03-21-2019 21:10:27 action chosen: 03-21-2019 21:10:27Bulk Search from random.txt 
-
-03-21-2019 21:10:27 search key entered:  
-03-21-2019 21:10:27 Running searches from random.txt 
-03-21-2019 21:11:54 action chosen: 03-21-2019 21:11:54Search for a Band 
-
-03-21-2019 21:11:54 search key entered:  
-03-21-2019 21:11:54bands in town API query STR: 03-21-2019 21:11:54https://rest.bandsintown.com/artists/?app_id=codingbootcamp
-
-03-21-2019 21:12:13 action chosen: 03-21-2019 21:12:13Bulk Search from random.txt 
-
-03-21-2019 21:12:13 search key entered:  
-03-21-2019 21:12:13 Running searches from random.txt 03-21-2019 21:12:13Tittle of the Movie: The Notebook,Year of the movie: 2004,IMDB Rating of the movie: 7.9/10,Rotten Tomatoes Rating of the movie: 53%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.,Actors in the movie: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner,Tittle of the Movie: Rocky,Year of the movie: 1976,IMDB Rating of the movie: 8.1/10,Rotten Tomatoes Rating of the movie: 93%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.,Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers,Proxima,Warszawa, Poland,04/14/2019,
-,Melkweg,Amsterdam, Netherlands,08/06/2019,
-,Progresja,Warszawa, Poland,12/14/2019,
-
-03-21-2019 21:13:23 action chosen: 03-21-2019 21:13:23Bulk Search from random.txt 
-
-03-21-2019 21:13:23 search key entered:  
-03-21-2019 21:13:23 Running searches from random.txt 03-21-2019 21:13:23Tittle of the Movie: The Notebook,Year of the movie: 2004,IMDB Rating of the movie: 7.9/10,Rotten Tomatoes Rating of the movie: 53%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.,Actors in the movie: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner,Tittle of the Movie: Rocky,Year of the movie: 1976,IMDB Rating of the movie: 8.1/10,Rotten Tomatoes Rating of the movie: 93%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.,Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers,Proxima,Warszawa, Poland,04/14/2019,
-,Melkweg,Amsterdam, Netherlands,08/06/2019,
-,Progresja,Warszawa, Poland,12/14/2019,
-
-03-21-2019 21:16:41 action chosen: 03-21-2019 21:16:41Bulk Search from random.txt 
-
-03-21-2019 21:16:41 search key entered:  
-03-21-2019 21:16:41 Running searches from random.txt 03-21-2019 21:16:42Tittle of the Movie: The Notebook,Year of the movie: 2004,IMDB Rating of the movie: 7.9/10,Rotten Tomatoes Rating of the movie: 53%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.,Actors in the movie: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner,Tittle of the Movie: Rocky,Year of the movie: 1976,IMDB Rating of the movie: 8.1/10,Rotten Tomatoes Rating of the movie: 93%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.,Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers,gaga,Proxima,Warszawa, Poland,04/14/2019,
-,Melkweg,Amsterdam, Netherlands,08/06/2019,
-,Progresja,Warszawa, Poland,12/14/2019,
-,gaga,Proxima,Warszawa, Poland,04/14/2019,
-,Melkweg,Amsterdam, Netherlands,08/06/2019,
-,Progresja,Warszawa, Poland,12/14/2019,
-,gaga,Proxima,Warszawa, Poland,04/14/2019,
-,Melkweg,Amsterdam, Netherlands,08/06/2019,
-,Progresja,Warszawa, Poland,12/14/2019,
-
-03-21-2019 21:17:43 action chosen: 03-21-2019 21:17:43Bulk Search from random.txt 
-
-03-21-2019 21:17:43 search key entered:  
-03-21-2019 21:17:43 Running searches from random.txt 03-21-2019 21:17:43Tittle of the Movie: The Notebook,Year of the movie: 2004,IMDB Rating of the movie: 7.9/10,Rotten Tomatoes Rating of the movie: 53%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.,Actors in the movie: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner,Tittle of the Movie: Rocky,Year of the movie: 1976,IMDB Rating of the movie: 8.1/10,Rotten Tomatoes Rating of the movie: 93%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.,Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers,gaga,Proxima,Warszawa, Poland,04/14/2019,
-,Melkweg,Amsterdam, Netherlands,08/06/2019,
-,Progresja,Warszawa, Poland,12/14/2019,
-
-03-21-2019 21:19:22 action chosen: 03-21-2019 21:19:22Bulk Search from random.txt 
-
-03-21-2019 21:19:22 search key entered:  
-03-21-2019 21:19:22 Running searches from random.txt 03-21-2019 21:19:23Tittle of the Movie: The Notebook,Year of the movie: 2004,IMDB Rating of the movie: 7.9/10,Rotten Tomatoes Rating of the movie: 53%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.,Actors in the movie: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner,Tittle of the Movie: Rocky,Year of the movie: 1976,IMDB Rating of the movie: 8.1/10,Rotten Tomatoes Rating of the movie: 93%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.,Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers,gaga,Proxima,Warszawa, Poland,04/14/2019,
-,Melkweg,Amsterdam, Netherlands,08/06/2019,
-,Progresja,Warszawa, Poland,12/14/2019,
-
-03-21-2019 21:19:43 action chosen: 03-21-2019 21:19:43Bulk Search from random.txt 
-
-03-21-2019 21:19:43 search key entered:  
-03-21-2019 21:19:43 Running searches from random.txt 03-21-2019 21:19:43Tittle of the Movie: The Notebook,Year of the movie: 2004,IMDB Rating of the movie: 7.9/10,Rotten Tomatoes Rating of the movie: 53%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.,Actors in the movie: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner,Tittle of the Movie: Rocky,Year of the movie: 1976,IMDB Rating of the movie: 8.1/10,Rotten Tomatoes Rating of the movie: 93%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.,Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers,Artist: gaga,Proxima,Warszawa, Poland,04/14/2019,
-,Melkweg,Amsterdam, Netherlands,08/06/2019,
-,Progresja,Warszawa, Poland,12/14/2019,
-
-03-21-2019 21:20:20 action chosen: 03-21-2019 21:20:20Bulk Search from random.txt 
-
-03-21-2019 21:20:20 search key entered:  
-03-21-2019 21:20:20 Running searches from random.txt 
-03-21-2019 21:21:05 action chosen: 03-21-2019 21:21:05Bulk Search from random.txt 
-
-03-21-2019 21:21:05 search key entered:  
-03-21-2019 21:21:05 Running searches from random.txt 03-21-2019 21:21:06Tittle of the Movie: The Notebook,Year of the movie: 2004,IMDB Rating of the movie: 7.9/10,Rotten Tomatoes Rating of the movie: 53%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.,Actors in the movie: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner,Tittle of the Movie: Rocky,Year of the movie: 1976,IMDB Rating of the movie: 8.1/10,Rotten Tomatoes Rating of the movie: 93%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.,Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers,Artist: gaga,Proxima,Warszawa, Poland,04/14/2019,
-,Melkweg,Amsterdam, Netherlands,08/06/2019,
-,Progresja,Warszawa, Poland,12/14/2019,
-,Artist: arianna grande,KeyBank Center,Buffalo, United States,03/22/2019,
-,Capitol One Arena,Washington, United States,03/25/2019,
-,Wells Fargo Center,Philadelphia, United States,03/26/2019,
-
-03-21-2019 21:22:39 action chosen: 03-21-2019 21:22:39Bulk Search from random.txt 
-
-03-21-2019 21:22:39 search key entered:  
-03-21-2019 21:22:39 Running searches from random.txt 03-21-2019 21:22:40Tittle of the Movie: The Notebook,Year of the movie: 2004,IMDB Rating of the movie: 7.9/10,Rotten Tomatoes Rating of the movie: 53%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.,Actors in the movie: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner,Tittle of the Movie: Rocky,Year of the movie: 1976,IMDB Rating of the movie: 8.1/10,Rotten Tomatoes Rating of the movie: 93%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.,Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers,Artist: gaga,Proxima,Warszawa, Poland,04/14/2019,
-,Melkweg,Amsterdam, Netherlands,08/06/2019,
-,Progresja,Warszawa, Poland,12/14/2019,
-,Artist: arianna grande,KeyBank Center,Buffalo, United States,03/22/2019,
-,Capitol One Arena,Washington, United States,03/25/2019,
-,Wells Fargo Center,Philadelphia, United States,03/26/2019,
-
-03-21-2019 21:29:02 action chosen: 03-21-2019 21:29:02Bulk Search from random.txt 
-
-03-21-2019 21:29:02 search key entered:  
-03-21-2019 21:29:02 Running searches from random.txt 03-21-2019 21:29:03Tittle of the Movie: The Notebook,Year of the movie: 2004,IMDB Rating of the movie: 7.9/10,Rotten Tomatoes Rating of the movie: 53%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.,Actors in the movie: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner,Tittle of the Movie: Rocky,Year of the movie: 1976,IMDB Rating of the movie: 8.1/10,Rotten Tomatoes Rating of the movie: 93%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.,Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers,Artist: gaga,Proxima,Warszawa, Poland,04/14/2019,
-,Melkweg,Amsterdam, Netherlands,08/06/2019,
-,Progresja,Warszawa, Poland,12/14/2019,
-,Artist: arianna grande,KeyBank Center,Buffalo, United States,03/22/2019,
-,Capitol One Arena,Washington, United States,03/25/2019,
-,Wells Fargo Center,Philadelphia, United States,03/26/2019,
-
-03-21-2019 21:31:53 action chosen: 03-21-2019 21:31:53Bulk Search from random.txt 
-
-03-21-2019 21:31:53 search key entered:  
-03-21-2019 21:31:53 Running searches from random.txt 03-21-2019 21:31:53Tittle of the Movie: The Notebook,Year of the movie: 2004,IMDB Rating of the movie: 7.9/10,Rotten Tomatoes Rating of the movie: 53%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.,Actors in the movie: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner,Tittle of the Movie: Rocky,Year of the movie: 1976,IMDB Rating of the movie: 8.1/10,Rotten Tomatoes Rating of the movie: 93%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.,Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers,Artist: gaga,Proxima,Warszawa, Poland,04/14/2019,
-,Melkweg,Amsterdam, Netherlands,08/06/2019,
-,Progresja,Warszawa, Poland,12/14/2019,
-,Artist: arianna grande,KeyBank Center,Buffalo, United States,03/22/2019,
-,Capitol One Arena,Washington, United States,03/25/2019,
-,Wells Fargo Center,Philadelphia, United States,03/26/2019,
-
-03-21-2019 23:13:16 action chosen: 03-21-2019 23:13:16Search for a Band 
-
-03-21-2019 23:13:16 search key entered: gaga 
-03-21-2019 23:13:16bands in town API query STR: 03-21-2019 23:13:16https://rest.bandsintown.com/artists/gaga?app_id=codingbootcamp
-03-21-2019 23:13:16thumb_url: https://s3.amazonaws.com/bit-photos/thumb/7864344.jpeg
-03-21-2019 23:13:16mbid: 79a56dcf-fd44-49e3-8d1f-cff86c81b598
-03-21-2019 23:13:16facebook_page_url: http://www.facebook.com/151806754842815
-03-21-2019 23:13:16image_url: https://s3.amazonaws.com/bit-photos/large/7864344.jpeg
-03-21-2019 23:13:16name: Gaga
-03-21-2019 23:13:16id: 162880
-03-21-2019 23:13:16tracker_count: 5468
-03-21-2019 23:13:16upcoming_event_count: 3
-03-21-2019 23:13:16url: https://www.bandsintown.com/a/162880?came_from=267&app_id=codingbootcamp
-03-21-2019 23:13:170: [object Object]
-03-21-2019 23:13:171: [object Object]
-03-21-2019 23:13:172: [object Object]
-
-03-21-2019 23:13:49 action chosen: 03-21-2019 23:13:49Search for a Band 
-gaga 
-
-03-21-2019 23:13:49 search key entered: 03-21-2019 23:13:49bands in town API query STR: 03-21-2019 23:13:49https://rest.bandsintown.com/artists/gaga?app_id=codingbootcamp
-03-21-2019 23:13:49thumb_url: https://s3.amazonaws.com/bit-photos/thumb/7864344.jpeg
-03-21-2019 23:13:49mbid: 79a56dcf-fd44-49e3-8d1f-cff86c81b598
-03-21-2019 23:13:49facebook_page_url: http://www.facebook.com/151806754842815
-03-21-2019 23:13:49image_url: https://s3.amazonaws.com/bit-photos/large/7864344.jpeg
-03-21-2019 23:13:49name: Gaga
-03-21-2019 23:13:49id: 162880
-03-21-2019 23:13:49tracker_count: 5468
-03-21-2019 23:13:49upcoming_event_count: 3
-03-21-2019 23:13:49url: https://www.bandsintown.com/a/162880?came_from=267&app_id=codingbootcamp
-03-21-2019 23:13:490: [object Object]
-03-21-2019 23:13:491: [object Object]
-03-21-2019 23:13:492: [object Object]
-
-03-21-2019 23:13:54 action chosen: 03-21-2019 23:13:54Quit
+03-21-2019 23:47:30 action chosen: Quit
  
 
-03-21-2019 23:13:54 search key entered:  
-
-03-21-2019 23:14:01 action chosen: 03-21-2019 23:14:01Search for a Band 
-
-03-21-2019 23:14:01 search key entered: gaga 
-03-21-2019 23:14:01bands in town API query STR: 03-21-2019 23:14:01https://rest.bandsintown.com/artists/gaga?app_id=codingbootcamp
-03-21-2019 23:14:01thumb_url: https://s3.amazonaws.com/bit-photos/thumb/7864344.jpeg
-03-21-2019 23:14:01mbid: 79a56dcf-fd44-49e3-8d1f-cff86c81b598
-03-21-2019 23:14:01facebook_page_url: http://www.facebook.com/151806754842815
-03-21-2019 23:14:01image_url: https://s3.amazonaws.com/bit-photos/large/7864344.jpeg
-03-21-2019 23:14:01name: Gaga
-03-21-2019 23:14:01id: 162880
-03-21-2019 23:14:01tracker_count: 5468
-03-21-2019 23:14:01upcoming_event_count: 3
-03-21-2019 23:14:01url: https://www.bandsintown.com/a/162880?came_from=267&app_id=codingbootcamp
-03-21-2019 23:14:010: [object Object]
-03-21-2019 23:14:011: [object Object]
-03-21-2019 23:14:012: [object Object]
-
-03-21-2019 23:14:20 action chosen: 03-21-2019 23:14:20Quit
- 
-
-03-21-2019 23:14:20 search key entered:  
-
-03-21-2019 23:14:24 action chosen: 03-21-2019 23:14:24Search for a Band 
-
-03-21-2019 23:14:24 search key entered: gaga 
-03-21-2019 23:14:24bands in town API query STR: 03-21-2019 23:14:24https://rest.bandsintown.com/artists/gaga?app_id=codingbootcamp
-03-21-2019 23:14:25thumb_url: https://s3.amazonaws.com/bit-photos/thumb/7864344.jpeg
-03-21-2019 23:14:25mbid: 79a56dcf-fd44-49e3-8d1f-cff86c81b598
-03-21-2019 23:14:25facebook_page_url: http://www.facebook.com/151806754842815
-03-21-2019 23:14:25image_url: https://s3.amazonaws.com/bit-photos/large/7864344.jpeg
-03-21-2019 23:14:25name: Gaga
-03-21-2019 23:14:25id: 162880
-03-21-2019 23:14:25tracker_count: 5468
-03-21-2019 23:14:25upcoming_event_count: 3
-03-21-2019 23:14:25url: https://www.bandsintown.com/a/162880?came_from=267&app_id=codingbootcamp
-03-21-2019 23:14:250: [object Object]
-03-21-2019 23:14:251: [object Object]
-03-21-2019 23:14:252: [object Object]
-
-03-21-2019 23:15:24 action chosen: 03-21-2019 23:15:24Search for a Song 
-
-03-21-2019 23:15:24 search key entered: shallow 
-03-21-2019 23:15:24Spotify API query STR: 03-21-2019 23:15:24https://rest.bandsintown.com/artists/shallow?app_id=codingbootcamp
-03-21-2019 23:15:24Name of Artist: Lady Gaga
-03-21-2019 23:15:24Link to the song: https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B
-03-21-2019 23:15:24Name of Song: Shallow
-03-21-2019 23:15:24Album name: A Star Is Born Soundtrack
-03-21-2019 23:15:24
-
-03-21-2019 23:15:24Name of Artist: Lady Gaga
-03-21-2019 23:15:24Link to the song: https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj
-03-21-2019 23:15:24Name of Song: Shallow - Radio Edit
-03-21-2019 23:15:24Album name: A Star Is Born Soundtrack (Without Dialogue)
-03-21-2019 23:15:24
-
-03-21-2019 23:15:24Name of Artist: Shallou
-03-21-2019 23:15:24Link to the song: https://open.spotify.com/track/6QcrReLyoun4xrPVsZ5OJE
-03-21-2019 23:15:24Name of Song: Lie
-03-21-2019 23:15:24Album name: Lie
-03-21-2019 23:15:24
-
-03-21-2019 23:15:24Name of Artist: Lady Gaga
-03-21-2019 23:15:24Link to the song: https://open.spotify.com/track/5QtyKicaRI50MirnefUL5c
-03-21-2019 23:15:24Name of Song: Shallow
-03-21-2019 23:15:24Album name: A Star Is Born Soundtrack
-03-21-2019 23:15:24
-
-03-21-2019 23:15:24Name of Artist: BAYNK
-03-21-2019 23:15:24Link to the song: https://open.spotify.com/track/3p8LPCCe2y7cosybYJlX7Y
-03-21-2019 23:15:24Name of Song: Come Home
-03-21-2019 23:15:24Album name: Come Home
-03-21-2019 23:15:24
-
-
-03-21-2019 23:15:57 action chosen: 03-21-2019 23:15:57Search for a movie 
-
-03-21-2019 23:15:57 search key entered: rocky 
-
-03-21-2019 23:15:57 Movie API query STR: 03-21-2019 23:15:57http://www.omdbapi.com/?t=rocky&y=&plot=short&apikey=trilogy
-03-21-2019 23:15:57Tittle of the Movie: Rocky
-03-21-2019 23:15:57Year of the movie: 1976
-03-21-2019 23:15:57IMDB Rating of the movie: 8.1/10
-03-21-2019 23:15:57Rotten Tomatoes Rating of the movie: 93%
-03-21-2019 23:15:57Country where the movie was produced: USA
-03-21-2019 23:15:57Language of the movie: English
-03-21-2019 23:15:57Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.
-03-21-2019 23:15:57Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers
-
-03-21-2019 23:17:13 action chosen: 03-21-2019 23:17:13Bulk Search from random.txt 
-
-03-21-2019 23:17:13 search key entered:  
-03-21-2019 23:17:13 Running searches from random.txt 03-21-2019 23:17:14Tittle of the Movie: The Notebook,Year of the movie: 2004,IMDB Rating of the movie: 7.9/10,Rotten Tomatoes Rating of the movie: 53%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.,Actors in the movie: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner,Tittle of the Movie: Rocky,Year of the movie: 1976,IMDB Rating of the movie: 8.1/10,Rotten Tomatoes Rating of the movie: 93%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.,Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers,Artist: gaga,Proxima,Warszawa, Poland,04/14/2019,
-,Melkweg,Amsterdam, Netherlands,08/06/2019,
-,Progresja,Warszawa, Poland,12/14/2019,
-,Artist: arianna grande,KeyBank Center,Buffalo, United States,03/22/2019,
-,Capitol One Arena,Washington, United States,03/25/2019,
-,Wells Fargo Center,Philadelphia, United States,03/26/2019,
-
-03-21-2019 23:37:27 action chosen: 03-21-2019 23:37:27Search for a Band 
-
-03-21-2019 23:37:27 search key entered:  
-03-21-2019 23:37:27bands in town API query STR: 03-21-2019 23:37:27https://rest.bandsintown.com/artists/?app_id=codingbootcamp
-
-03-21-2019 23:39:37 action chosen: 03-21-2019 23:39:37Search for a Band 
-
-03-21-2019 23:39:37 search key entered:  
-03-21-2019 23:39:37 bands in town API query STR: 03-21-2019 23:39:37https://rest.bandsintown.com/artists/gaga?app_id=codingbootcamp
-03-21-2019 23:39:37thumb_url: https://s3.amazonaws.com/bit-photos/thumb/7864344.jpeg
-03-21-2019 23:39:37mbid: 79a56dcf-fd44-49e3-8d1f-cff86c81b598
-03-21-2019 23:39:37facebook_page_url: http://www.facebook.com/151806754842815
-03-21-2019 23:39:37image_url: https://s3.amazonaws.com/bit-photos/large/7864344.jpeg
-03-21-2019 23:39:37name: Gaga
-03-21-2019 23:39:37id: 162880
-03-21-2019 23:39:37tracker_count: 5468
-03-21-2019 23:39:37upcoming_event_count: 3
-03-21-2019 23:39:37url: https://www.bandsintown.com/a/162880?came_from=267&app_id=codingbootcamp
-03-21-2019 23:39:380: [object Object]
-03-21-2019 23:39:381: [object Object]
-03-21-2019 23:39:382: [object Object]
+03-21-2019 23:47:30 search key entered:  

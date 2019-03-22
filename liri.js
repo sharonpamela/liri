@@ -44,7 +44,7 @@ function actionPrompt() {
       fs.appendFile("log.txt", "\n" + getTime() + " action chosen: ", function (err) {
         if (err) { console.log(err); }
       });
-      fs.appendFile("log.txt", getTime() + action + " \n", function (err) {
+      fs.appendFile("log.txt", action + " \n", function (err) {
         if (err) { console.log(err); }
       });
       fs.appendFile("log.txt", "\n" + getTime() + " search key entered: ", function (err) {
