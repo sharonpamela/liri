@@ -92,8 +92,13 @@ function getTime() {
 //search for a band
 function getBandInfo(searchKey) {
 
+  // If no song is provided then your program will default to "The Sign" by Ace of Base.
+  if (searchKey === "") {
+    searchKey = "gaga"
+  }
+
   //write to log file
-  fs.appendFile("log.txt", getTime() + "bands in town API query STR: ", function (err) {
+  fs.appendFile("log.txt", getTime() + " bands in town API query STR: ", function (err) {
     if (err) { console.log(err); }
   });
   fs.appendFile("log.txt", getTime() + `https://rest.bandsintown.com/artists/${searchKey}?app_id=codingbootcamp\n`, function (err) {
@@ -116,7 +121,7 @@ function getBandInfo(searchKey) {
         console.log("\n It looks like that artist doesn't have any upcoming events. \n");
         actionPrompt();
       } else {
-        console.log("This artist has " + eventNumber + " upcoming events. Below are the next 3. \n");
+        console.log("\nThis artist has " + eventNumber + " upcoming events. Below are the next 3. \n");
         axios.get(`https://rest.bandsintown.com/artists/${searchKey}/events?app_id=codingbootcamp`)
           .then(function (response) {
 
@@ -167,10 +172,7 @@ function getSong(searchKey) {
   }
 
   //write to log file
-  fs.appendFile("log.txt", getTime() + "Spotify API query STR: ", function (err) {
-    if (err) { console.log(err); }
-  });
-  fs.appendFile("log.txt", getTime() + `https://rest.bandsintown.com/artists/${searchKey}?app_id=codingbootcamp\n`, function (err) {
+  fs.appendFile("log.txt", getTime() + `Searching ${searchKey} on Spotify.`, function (err) {
     if (err) { console.log(err); }
   });
 
@@ -225,7 +227,7 @@ function getMovie(searchKey) {
 
       //write response to screen and to log file
       let respArr = [];
-      respArr.push(`Tittle of the Movie: ${response.data.Title}`); // * Title of the movie.
+      respArr.push(`\nTittle of the Movie: ${response.data.Title}`); // * Title of the movie.
       respArr.push(`Year of the movie: ${response.data.Year}`); // * Year the movie came out.
       respArr.push(`IMDB Rating of the movie: ${response.data.Ratings[0].Value}`); // * IMDB Rating of the movie.
       respArr.push(`Rotten Tomatoes Rating of the movie: ${response.data.Ratings[1].Value}`); // * Rotten Tomatoes Rating of the movie.
@@ -236,10 +238,11 @@ function getMovie(searchKey) {
 
       for (let i = 0; i < respArr.length; i++) {
         console.log(respArr[i] + "\n");
-        fs.appendFile("log.txt", getTime() + respArr[i] + "\n", function (err) {
+        fs.appendFile("log.txt", getTime() + respArr[i], function (err) {
           if (err) { console.log(err); }
         });
       }
+      console.log("\n")
       //prompt user again for next search
       actionPrompt();
     }
@@ -274,7 +277,7 @@ function bulkSearch() {
       const movies = dataArr[2].split(",");
 
 
-     // search for songs
+      // search for songs
       // for (let i = 0; i < songs.length; i++) {
       //   const spotified = await spotify.search({ type: 'track', query: songs[i] }, function (err, data) {
       //     if (err) {
@@ -318,7 +321,7 @@ function bulkSearch() {
         const response = await axios.get(`https://rest.bandsintown.com/artists/${bands[i]}/events?app_id=codingbootcamp`);
 
         // console.log(bands[i]); // artist name print to screen
-        results.push("Artist: "+bands[i]); //artist name pushed to the results array
+        results.push("Artist: " + bands[i]); //artist name pushed to the results array
         bandRespArr = [];
 
         // output the next three concerts for each artist provided
@@ -341,7 +344,7 @@ function bulkSearch() {
           results.push(bandRespArr);
           bandRespArr = [];
         }//end of loop for events from a band
-        
+
       } // end loop for the bands
 
       //write to screen 

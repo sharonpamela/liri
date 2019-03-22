@@ -702,3 +702,162 @@ action chosen: search key entered: Search for a Band
 ,Artist: arianna grande,KeyBank Center,Buffalo, United States,03/22/2019,
 ,Capitol One Arena,Washington, United States,03/25/2019,
 ,Wells Fargo Center,Philadelphia, United States,03/26/2019,
+
+03-21-2019 23:13:16 action chosen: 03-21-2019 23:13:16Search for a Band 
+
+03-21-2019 23:13:16 search key entered: gaga 
+03-21-2019 23:13:16bands in town API query STR: 03-21-2019 23:13:16https://rest.bandsintown.com/artists/gaga?app_id=codingbootcamp
+03-21-2019 23:13:16thumb_url: https://s3.amazonaws.com/bit-photos/thumb/7864344.jpeg
+03-21-2019 23:13:16mbid: 79a56dcf-fd44-49e3-8d1f-cff86c81b598
+03-21-2019 23:13:16facebook_page_url: http://www.facebook.com/151806754842815
+03-21-2019 23:13:16image_url: https://s3.amazonaws.com/bit-photos/large/7864344.jpeg
+03-21-2019 23:13:16name: Gaga
+03-21-2019 23:13:16id: 162880
+03-21-2019 23:13:16tracker_count: 5468
+03-21-2019 23:13:16upcoming_event_count: 3
+03-21-2019 23:13:16url: https://www.bandsintown.com/a/162880?came_from=267&app_id=codingbootcamp
+03-21-2019 23:13:170: [object Object]
+03-21-2019 23:13:171: [object Object]
+03-21-2019 23:13:172: [object Object]
+
+03-21-2019 23:13:49 action chosen: 03-21-2019 23:13:49Search for a Band 
+gaga 
+
+03-21-2019 23:13:49 search key entered: 03-21-2019 23:13:49bands in town API query STR: 03-21-2019 23:13:49https://rest.bandsintown.com/artists/gaga?app_id=codingbootcamp
+03-21-2019 23:13:49thumb_url: https://s3.amazonaws.com/bit-photos/thumb/7864344.jpeg
+03-21-2019 23:13:49mbid: 79a56dcf-fd44-49e3-8d1f-cff86c81b598
+03-21-2019 23:13:49facebook_page_url: http://www.facebook.com/151806754842815
+03-21-2019 23:13:49image_url: https://s3.amazonaws.com/bit-photos/large/7864344.jpeg
+03-21-2019 23:13:49name: Gaga
+03-21-2019 23:13:49id: 162880
+03-21-2019 23:13:49tracker_count: 5468
+03-21-2019 23:13:49upcoming_event_count: 3
+03-21-2019 23:13:49url: https://www.bandsintown.com/a/162880?came_from=267&app_id=codingbootcamp
+03-21-2019 23:13:490: [object Object]
+03-21-2019 23:13:491: [object Object]
+03-21-2019 23:13:492: [object Object]
+
+03-21-2019 23:13:54 action chosen: 03-21-2019 23:13:54Quit
+ 
+
+03-21-2019 23:13:54 search key entered:  
+
+03-21-2019 23:14:01 action chosen: 03-21-2019 23:14:01Search for a Band 
+
+03-21-2019 23:14:01 search key entered: gaga 
+03-21-2019 23:14:01bands in town API query STR: 03-21-2019 23:14:01https://rest.bandsintown.com/artists/gaga?app_id=codingbootcamp
+03-21-2019 23:14:01thumb_url: https://s3.amazonaws.com/bit-photos/thumb/7864344.jpeg
+03-21-2019 23:14:01mbid: 79a56dcf-fd44-49e3-8d1f-cff86c81b598
+03-21-2019 23:14:01facebook_page_url: http://www.facebook.com/151806754842815
+03-21-2019 23:14:01image_url: https://s3.amazonaws.com/bit-photos/large/7864344.jpeg
+03-21-2019 23:14:01name: Gaga
+03-21-2019 23:14:01id: 162880
+03-21-2019 23:14:01tracker_count: 5468
+03-21-2019 23:14:01upcoming_event_count: 3
+03-21-2019 23:14:01url: https://www.bandsintown.com/a/162880?came_from=267&app_id=codingbootcamp
+03-21-2019 23:14:010: [object Object]
+03-21-2019 23:14:011: [object Object]
+03-21-2019 23:14:012: [object Object]
+
+03-21-2019 23:14:20 action chosen: 03-21-2019 23:14:20Quit
+ 
+
+03-21-2019 23:14:20 search key entered:  
+
+03-21-2019 23:14:24 action chosen: 03-21-2019 23:14:24Search for a Band 
+
+03-21-2019 23:14:24 search key entered: gaga 
+03-21-2019 23:14:24bands in town API query STR: 03-21-2019 23:14:24https://rest.bandsintown.com/artists/gaga?app_id=codingbootcamp
+03-21-2019 23:14:25thumb_url: https://s3.amazonaws.com/bit-photos/thumb/7864344.jpeg
+03-21-2019 23:14:25mbid: 79a56dcf-fd44-49e3-8d1f-cff86c81b598
+03-21-2019 23:14:25facebook_page_url: http://www.facebook.com/151806754842815
+03-21-2019 23:14:25image_url: https://s3.amazonaws.com/bit-photos/large/7864344.jpeg
+03-21-2019 23:14:25name: Gaga
+03-21-2019 23:14:25id: 162880
+03-21-2019 23:14:25tracker_count: 5468
+03-21-2019 23:14:25upcoming_event_count: 3
+03-21-2019 23:14:25url: https://www.bandsintown.com/a/162880?came_from=267&app_id=codingbootcamp
+03-21-2019 23:14:250: [object Object]
+03-21-2019 23:14:251: [object Object]
+03-21-2019 23:14:252: [object Object]
+
+03-21-2019 23:15:24 action chosen: 03-21-2019 23:15:24Search for a Song 
+
+03-21-2019 23:15:24 search key entered: shallow 
+03-21-2019 23:15:24Spotify API query STR: 03-21-2019 23:15:24https://rest.bandsintown.com/artists/shallow?app_id=codingbootcamp
+03-21-2019 23:15:24Name of Artist: Lady Gaga
+03-21-2019 23:15:24Link to the song: https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B
+03-21-2019 23:15:24Name of Song: Shallow
+03-21-2019 23:15:24Album name: A Star Is Born Soundtrack
+03-21-2019 23:15:24
+
+03-21-2019 23:15:24Name of Artist: Lady Gaga
+03-21-2019 23:15:24Link to the song: https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj
+03-21-2019 23:15:24Name of Song: Shallow - Radio Edit
+03-21-2019 23:15:24Album name: A Star Is Born Soundtrack (Without Dialogue)
+03-21-2019 23:15:24
+
+03-21-2019 23:15:24Name of Artist: Shallou
+03-21-2019 23:15:24Link to the song: https://open.spotify.com/track/6QcrReLyoun4xrPVsZ5OJE
+03-21-2019 23:15:24Name of Song: Lie
+03-21-2019 23:15:24Album name: Lie
+03-21-2019 23:15:24
+
+03-21-2019 23:15:24Name of Artist: Lady Gaga
+03-21-2019 23:15:24Link to the song: https://open.spotify.com/track/5QtyKicaRI50MirnefUL5c
+03-21-2019 23:15:24Name of Song: Shallow
+03-21-2019 23:15:24Album name: A Star Is Born Soundtrack
+03-21-2019 23:15:24
+
+03-21-2019 23:15:24Name of Artist: BAYNK
+03-21-2019 23:15:24Link to the song: https://open.spotify.com/track/3p8LPCCe2y7cosybYJlX7Y
+03-21-2019 23:15:24Name of Song: Come Home
+03-21-2019 23:15:24Album name: Come Home
+03-21-2019 23:15:24
+
+
+03-21-2019 23:15:57 action chosen: 03-21-2019 23:15:57Search for a movie 
+
+03-21-2019 23:15:57 search key entered: rocky 
+
+03-21-2019 23:15:57 Movie API query STR: 03-21-2019 23:15:57http://www.omdbapi.com/?t=rocky&y=&plot=short&apikey=trilogy
+03-21-2019 23:15:57Tittle of the Movie: Rocky
+03-21-2019 23:15:57Year of the movie: 1976
+03-21-2019 23:15:57IMDB Rating of the movie: 8.1/10
+03-21-2019 23:15:57Rotten Tomatoes Rating of the movie: 93%
+03-21-2019 23:15:57Country where the movie was produced: USA
+03-21-2019 23:15:57Language of the movie: English
+03-21-2019 23:15:57Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.
+03-21-2019 23:15:57Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers
+
+03-21-2019 23:17:13 action chosen: 03-21-2019 23:17:13Bulk Search from random.txt 
+
+03-21-2019 23:17:13 search key entered:  
+03-21-2019 23:17:13 Running searches from random.txt 03-21-2019 23:17:14Tittle of the Movie: The Notebook,Year of the movie: 2004,IMDB Rating of the movie: 7.9/10,Rotten Tomatoes Rating of the movie: 53%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.,Actors in the movie: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner,Tittle of the Movie: Rocky,Year of the movie: 1976,IMDB Rating of the movie: 8.1/10,Rotten Tomatoes Rating of the movie: 93%,Country where the movie was produced: USA,Language of the movie: English,Plot of the movie: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.,Actors in the movie: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers,Artist: gaga,Proxima,Warszawa, Poland,04/14/2019,
+,Melkweg,Amsterdam, Netherlands,08/06/2019,
+,Progresja,Warszawa, Poland,12/14/2019,
+,Artist: arianna grande,KeyBank Center,Buffalo, United States,03/22/2019,
+,Capitol One Arena,Washington, United States,03/25/2019,
+,Wells Fargo Center,Philadelphia, United States,03/26/2019,
+
+03-21-2019 23:37:27 action chosen: 03-21-2019 23:37:27Search for a Band 
+
+03-21-2019 23:37:27 search key entered:  
+03-21-2019 23:37:27bands in town API query STR: 03-21-2019 23:37:27https://rest.bandsintown.com/artists/?app_id=codingbootcamp
+
+03-21-2019 23:39:37 action chosen: 03-21-2019 23:39:37Search for a Band 
+
+03-21-2019 23:39:37 search key entered:  
+03-21-2019 23:39:37 bands in town API query STR: 03-21-2019 23:39:37https://rest.bandsintown.com/artists/gaga?app_id=codingbootcamp
+03-21-2019 23:39:37thumb_url: https://s3.amazonaws.com/bit-photos/thumb/7864344.jpeg
+03-21-2019 23:39:37mbid: 79a56dcf-fd44-49e3-8d1f-cff86c81b598
+03-21-2019 23:39:37facebook_page_url: http://www.facebook.com/151806754842815
+03-21-2019 23:39:37image_url: https://s3.amazonaws.com/bit-photos/large/7864344.jpeg
+03-21-2019 23:39:37name: Gaga
+03-21-2019 23:39:37id: 162880
+03-21-2019 23:39:37tracker_count: 5468
+03-21-2019 23:39:37upcoming_event_count: 3
+03-21-2019 23:39:37url: https://www.bandsintown.com/a/162880?came_from=267&app_id=codingbootcamp
+03-21-2019 23:39:380: [object Object]
+03-21-2019 23:39:381: [object Object]
+03-21-2019 23:39:382: [object Object]
